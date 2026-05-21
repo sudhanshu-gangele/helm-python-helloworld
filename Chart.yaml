@@ -1,0 +1,10 @@
+apiVersion: v1
+name: python-helloworld 
+description: Install a Python HelloWorld deployment
+keywords:
+- python
+- helloworld 
+version: v1.0.0
+maintainers:
+- name: sudhanshu 
+  email: sudhanshu.gangele@github.com
